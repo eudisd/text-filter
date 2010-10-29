@@ -1,0 +1,6 @@
+Compiled with TASM 5.0
+
+Assemble with: 
+	tasm filter.asm
+Link with: 
+	tlink /t filter
